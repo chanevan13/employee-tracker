@@ -1,0 +1,23 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanevan13/employee-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanevan13/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/chanevan13/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^9.2.7",
+    "mysql2": "^3.3.3"
+  }
+}
