@@ -52,7 +52,7 @@ function DisplayTitleCard() {
 
 //Display menu with options for user to pick which functionality to use
 function MainMenu() {
-    inquirer.prompt([
+      inquirer.prompt([
         { name:"choice", message:"What would you like to do?", type:'list', choices:[
             {name:'View All Employees', value:0},
             {name:'View Employees by Role', value:1},
