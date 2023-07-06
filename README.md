@@ -1,7 +1,7 @@
 # Employee Tracker
 ## Demo
 
-![Video Demo](./assets/screen-capture%20(2)%20(2).webm)
+![Video Demo](./assets/screen-capture%20(3).webm)
 
 ## Table of Contents
   
